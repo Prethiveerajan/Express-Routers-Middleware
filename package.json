@@ -1,0 +1,17 @@
+{
+  "name": "express_rev1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expess": "^0.0.1-security",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
